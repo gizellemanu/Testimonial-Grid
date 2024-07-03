@@ -8,7 +8,7 @@ This repository contains the source code for a website developed using HTML and 
 
 > _This project was developed during the course [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/), taught by [Brad Traversy](https://www.udemy.com/user/brad-traversy/)._ <br>
 > You can view the certificate of completion below: <br>
-> [`Certificate of Completion`](Project4-TestimonialGrid/CertificateTailwind.jpg)
+> [`Certificate of Completion`](https://github.com/gizellemanu/Testimonial-Grid/blob/main/CertificateTailwind.jpg)
 
 <!-- You can also access the certificate directly [here](path/to/certificate.pdf). -->
 
@@ -88,7 +88,7 @@ Este repositório contém o código-fonte de um site desenvolvido em HTML e Tail
 
 > _Este projeto foi desenvolvido durante o curso [Tailwind CSS From Scratch | Learn By Building Projects](https://www.udemy.com/course/tailwind-from-scratch/), ministrado por [Brad Traversy](https://www.udemy.com/user/brad-traversy/)._ <br>
 > Você pode visualizar o certificado de conclusão abaixo: <br>
-> [`Certificado de Conclusão`](Project4-TestimonialGrid/Certificado.jpg)
+> [`Certificado de Conclusão`](https://github.com/gizellemanu/Testimonial-Grid/blob/main/Certificado.jpg)
 
 <!-- Você também pode acessar o certificado diretamente [aqui](caminho/para/certificado.pdf). -->
 
